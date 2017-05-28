@@ -41,7 +41,7 @@
   <!--   <test_depend>gtest</test_depend> -->
   <buildtool_depend>catkin</buildtool_depend>
   <!-- <build_depend>pimouse_ros</build_depend> -->
-  <!-- <run_depend>pimouse_ros</run_depend> -->
+  <run_depend>pimouse_ros</run_depend>
 
   <!-- The export tag contains other, unspecified, tags -->
   <export>
